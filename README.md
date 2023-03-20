@@ -1,3 +1,7 @@
+# Please note
+
+[There is a 'development' repository available which hosts individual files.](https://github.com/Jurrie/Z99-development)
+
 ## Z99
 
 Z99 is a multifunctional 4 axis machine.
